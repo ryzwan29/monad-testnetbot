@@ -5,7 +5,7 @@ const readline = require("readline");
 const displayHeader = require("../src/displayHeader.js");
 displayHeader();
 
-const RPC_URL = "https://chain-prod.haha.me/monad-testnet";
+const RPC_URL = "https://testnet-rpc.monad.xyz/";
 const EXPLORER_URL = "https://testnet.monadexplorer.com/tx/";
 const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const WMON_CONTRACT = "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701";

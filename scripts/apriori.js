@@ -7,7 +7,7 @@ const axios = require("axios");
 
 displayHeader();
 
-const RPC_URL = "https://chain-prod.haha.me/monad-testnet";
+const RPC_URL = "https://testnet-rpc.monad.xyz/";
 const EXPLORER_URL = "https://testnet.monadexplorer.com/tx/";
 const provider = new ethers.providers.JsonRpcProvider(RPC_URL);
 const PRIVATE_KEY = process.env.PRIVATE_KEY;
