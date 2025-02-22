@@ -24,7 +24,7 @@ cd monad-testnetbot
 1.  **Rename `.env.example`** to .env
 
 ```bash
-  copy .env.example .env
+  cp .env.example .env
 ```
 
 2. **Edit the `.env.`** file
